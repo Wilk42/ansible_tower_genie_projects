@@ -25,7 +25,7 @@ An Ansible Role to create a Project in Ansible Tower.
 ---
 - hosts: all
   roles:
-    - role: "tower-project"
+    - role: "genie-projects"
       tower_url: "https:/my-tower-server.foo.bar"
       tower_verify_ssl: False
       tower_user: "admin"
