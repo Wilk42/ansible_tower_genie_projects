@@ -40,5 +40,8 @@ An Ansible Role to create Projects in Ansible Tower.
       tower_proj_delete: False
       tower_proj_update_on_launch: False
 ```
+## License
+[MIT](LICENSE)
+
 ## Author
 [Andrew J. Huffman](mailto:ahuffman@redhat.com)
