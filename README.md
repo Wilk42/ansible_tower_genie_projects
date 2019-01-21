@@ -44,4 +44,4 @@ An Ansible Role to create Projects in Ansible Tower.
 [MIT](LICENSE)
 
 ## Author
-[Andrew J. Huffman](mailto:ahuffman@redhat.com)
+[Andrew J. Huffman](https://github.com/ahuffman)
