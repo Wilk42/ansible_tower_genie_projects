@@ -1,6 +1,6 @@
-# genie-projects
+# ansible_tower_genie_projects
 ## Description
-An Ansible Role to create a Project in Ansible Tower.
+An Ansible Role to create Projects in Ansible Tower.
 ## Variables
 |Variable Name|Default Value|Required|Description|
 |:---:|:---:|:---:|:---:|
